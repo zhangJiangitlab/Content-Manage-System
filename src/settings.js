@@ -1,6 +1,6 @@
-module.export = {
-    title: 'Vue Element Admin',
-    
+module.exports = {
+  title: 'Vue Element Admin',
+
   /**
    * @type {boolean} true | false
    * @description Whether show the settings right-panel
